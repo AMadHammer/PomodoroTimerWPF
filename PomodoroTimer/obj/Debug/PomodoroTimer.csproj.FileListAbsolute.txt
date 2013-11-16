@@ -1,0 +1,13 @@
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csprojResolveAssemblyReference.cache
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\MainWindow.baml
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\MainWindow.g.cs
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\App.g.cs
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer_MarkupCompile.cache
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.g.resources
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Properties.Resources.resources
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.GenerateResource.Cache
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.exe
+C:\Users\aahmed\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.pdb
